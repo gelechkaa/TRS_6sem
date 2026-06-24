@@ -1,0 +1,10 @@
+0
+7.77778
+-2.15189e+27
+inf
+-nan(ind)
+-nan(ind)
+-nan(ind)
+-nan(ind)
+-nan(ind)
+-nan(ind)
